@@ -1,2 +1,2 @@
 # ml_projects 
-s1mple ml-projects. 
+s1mple ml-projects
